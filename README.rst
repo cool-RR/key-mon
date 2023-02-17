@@ -28,20 +28,7 @@ Latest downloads can be found at:
 Installation
 ------------
 
-To install using ``pip``,::
-
   $ pip install key-mon
-
-.. note::
-
-    The latest release on PyPI is quite old (from 2013); consider installing
-    `using the latest git commit <https://pip.pypa.io/en/latest/reference/pip_install/#git>`_::
-
-        $ pip install git+https://github.com/scottkirkwood/key-mon
-
-To install using ``easy_install``::
-
-  $ easy_install key-mon
 
   
 Requirements
